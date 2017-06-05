@@ -1,0 +1,3 @@
+172.17.0.3 mongo1.ttnd.com
+172.17.0.4 mongo2.ttnd.com
+172.17.0.5 mongo3.ttnd.com
